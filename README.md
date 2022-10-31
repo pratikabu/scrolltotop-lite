@@ -10,3 +10,4 @@ Downloaded from: https://iconarchive.com/show/blue-bits-icons-by-icojam/arrow-up
 ## App Screenshots
 <img src="screenshots/screenshot-1.jpg" width="600">
 
+<img src="screenshots/screenshot-2.jpg" width="600">
