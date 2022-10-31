@@ -4,7 +4,7 @@
 Light weight Scroll To Top extension for Chrome with minimal permissions.
 
 ## Downloads
-Chromium browser download: https://chrome.google.com/webstore/detail/scroll-to-top-lite/jbjcneifeikikbofmopiimefacknnhid
+Chromium browsers: https://chrome.google.com/webstore/detail/scroll-to-top-lite/jbjcneifeikikbofmopiimefacknnhid
 
 ## App Icon
 Downloaded from: https://iconarchive.com/show/blue-bits-icons-by-icojam/arrow-up-icon.html
