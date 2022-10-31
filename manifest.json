@@ -2,13 +2,16 @@
 	"name": "Scroll To Top - Lite",
 	"version": "1.0",
 	"manifest_version": 3,
-	"description": "Light weight Scroll to Top extension which doesn't require any permission to run.",
+	"description": "Light weight Scroll to Top/Bottom extension.",
 	"homepage_url": "https://github.com/pratikabu/scrolltotop-lite",
 	"background": {
 		"service_worker": "background.js"
 	},
 
 	"icons": {
+		"16": "icons/sttl-icon-16.png",
+		"24": "icons/sttl-icon-24.png",
+		"32": "icons/sttl-icon-32.png",
 		"48": "icons/sttl-icon-48.png",
 		"64": "icons/sttl-icon-64.png",
 		"128": "icons/sttl-icon-128.png"
@@ -16,8 +19,9 @@
 	
 	"action": {
 		"default_icon": {
-			"24": "icons/sttl-24.png",
-			"48": "icons/sttl-48.png"
+			"16": "icons/sttl-icon-16.png",
+			"24": "icons/sttl-icon-24.png",
+			"32": "icons/sttl-icon-32.png"
 		},
 		"default_title": "Scroll to Top/Bottom in a page"
 	},

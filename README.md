@@ -1,2 +1,8 @@
-# scrolltotop-lite
-Light weight Scroll To Top extension for Chrome and Firefox.
+# Scroll To Top - Lite
+
+## Overview
+Light weight Scroll To Top extension for Chrome with minimal permissions.
+
+
+## App Icon
+Downloaded from: https://iconarchive.com/show/blue-bits-icons-by-icojam/arrow-up-icon.html
