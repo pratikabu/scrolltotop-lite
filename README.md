@@ -16,7 +16,7 @@ Downloaded from: https://iconarchive.com/show/blue-bits-icons-by-icojam/arrow-up
 <img src="screenshots/screenshot-2.jpg" width="600">
 
 ## Build for Firefox
-Run the repo root folder, run below command to generate Firefox executables.
+Run below command to generate Firefox executables from root folder.
 ```sh
 ./firefox/build-ff.sh
 ```
