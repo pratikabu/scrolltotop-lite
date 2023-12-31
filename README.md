@@ -5,7 +5,7 @@ Light weight Scroll To Top extension for Chrome and Firefox with minimal permiss
 
 ## Downloads
 Chromium browsers: https://chrome.google.com/webstore/detail/scroll-to-top-lite/jbjcneifeikikbofmopiimefacknnhid
-Firefox browser: 
+Firefox browser: https://addons.mozilla.org/en-US/firefox/addon/scroll-to-top-lite/
 
 ## App Icon
 Downloaded from: https://iconarchive.com/show/blue-bits-icons-by-icojam/arrow-up-icon.html
