@@ -16,28 +16,7 @@ Downloaded from: https://iconarchive.com/show/blue-bits-icons-by-icojam/arrow-up
 <img src="screenshots/screenshot-2.jpg" width="600">
 
 ## Build for Firefox
-Perform below two steps for Firefox.
-### Update service_worker
-Firefox does not support `service_worker` in the `background` attribute in `manifest.json`.
-Replace this line:
-```json
-"service_worker": "background.js"
+Run the repo root folder, run below command to generate Firefox executables.
+```sh
+./firefox/build-ff.sh
 ```
-
-with this line:
-```json
-"scripts": ["background.js"]
-```
-
-### Add id
-Add below lines after the last attribute in `manifest.json`.
-```json
-,
-	"browser_specific_settings": {
-		"gecko": {
-			"id": "scrolltotop-lite@pratikabu"
-		}
-	}
-```
-
-Now generate the `.zip` file and upload to AMO.

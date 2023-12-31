@@ -1,0 +1,39 @@
+{
+	"name": "Scroll To Top - Lite",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Light weight Scroll to Top/Bottom extension.",
+	"homepage_url": "https://github.com/pratikabu/scrolltotop-lite",
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	},
+
+	"icons": {
+		"16": "icons/sttl-icon-16.png",
+		"24": "icons/sttl-icon-24.png",
+		"32": "icons/sttl-icon-32.png",
+		"48": "icons/sttl-icon-48.png",
+		"64": "icons/sttl-icon-64.png",
+		"128": "icons/sttl-icon-128.png"
+	},
+	
+	"browser_action": {
+		"default_icon": {
+			"16": "icons/sttl-icon-16.png",
+			"24": "icons/sttl-icon-24.png",
+			"32": "icons/sttl-icon-32.png"
+		},
+		"default_title": "Scroll to Top/Bottom in a page"
+	},
+	
+	"permissions": [
+		"activeTab"
+	],
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "scrolltotop-lite@pratikabu"
+		}
+	}
+	  
+}
